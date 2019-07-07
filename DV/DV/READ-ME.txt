@@ -1,0 +1,18 @@
+This paste contain 6 pastes:
+
+DvcomW  : Davidson model with time-weighted likelihood function 
+DvsemW :Davidson model without  time-weighted likelihood function
+DvvantagemcomW: Davidson model with time-weighted likelihood function, and advantage of white.
+DvvantagemsemW:  Davidson model without time-weighted likelihood function, and advantage of white.
+DvvantagemcomW1delta:Davidson model with time-weighted likelihood function, and advantage of white for each player.
+DVvantagemsemW1delta: Davidsonmodel without time-weighted likelihood function, and advantage of white for each player.
+
+In each past there are 3 files .R
+
+GSMH_BT_DIF..
+FGSMH
+Diag.R
+
+Where GSMH_BT_DIF. is used for generated 3 chains , FGSMH contain the functions necessary for GSMH_BT_DIF. and  Diag.R is used for diagnostic the converg  the chains.
+
+Is necessary the file granprix2010a2013 in all pastes.
