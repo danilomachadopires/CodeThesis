@@ -1,0 +1,38 @@
+
+The prediction file corresponds to the prediction of testing set A (banco4).
+
+save(mediasLog,file="mediasLog.rda")
+save(varLog,file="varLog.rda")
+save(meddist,file="meddist.rda")
+save(vardist,file="vardist.rda")
+
+
+The predicaotb1 file corresponds to the prediction of the set set B (banco3) and considers
+the delta of the players that were not estimated 0
+
+
+
+save(mediasLog,file="mediasLogb1.rda")
+save(varLog,file="varLogb1.rda")
+save(meddist,file="meddistb1.rda")
+save(vardist,file="vardistb1.rda")
+
+
+The predicaotb2 file corresponds to the prediction of the set set B (banco3) and considers
+the players' delta not estimated as the opposite of the delta ie DRB <-media
+
+save(mediasLog,file="mediasLogb2.rda")
+save(varLog,file="varLogb2.rda")
+save(meddist,file="meddistb2.rda")
+save(vardist,file="vardistb2.rda")
+
+
+
+The predicaotb3 file corresponds to the prediction of the set set B (banco3) and considers
+the players delta not estimated as the opposite of the delta ie DRB <-2 * DRW
+
+
+save(mediasLog,file="mediasLogb3.rda")
+save(varLog,file="varLogb3.rda")
+save(meddist,file="meddistb3.rda")
+save(vardist,file="vardistb3.rda")

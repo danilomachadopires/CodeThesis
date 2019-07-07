@@ -1,0 +1,1 @@
+This folder is an analysis of the testing of aICM and DEFineti for each testing set
