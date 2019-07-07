@@ -1,0 +1,2 @@
+# CodeThesis
+This repository contain the code used in the work Thesis " Comparação entre modelos estatísticos para sistemas de rating em torneios de xadrez (2014)" . The files are original, so the comments are not standardized and you need to read the readme files to understand the order of execution of each file. (The generated data is already inside the respective folders) * You must tailor the addresses to directories that vary depending on where the code will run.
